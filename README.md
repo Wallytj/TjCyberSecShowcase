@@ -1,7 +1,7 @@
-<h1>Hi, I'm Tej! <br/><a href="https://github.com/TjcyberSecShowcase">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Tej! <br/><a href="https://github.com/TjcyberSecShowcase">Cyber Security Analyst</a>, <a href="https://www.linkedin.com/in/joshmadakor/">SOC Analyst</a>
 
-<h2>👨‍💻 Cybersecurity projects:</h2>
-
+  <h2>👨‍💻 Cybersecurity projects:</h2>
+  
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
@@ -37,8 +37,7 @@
 [twitter]: https://twitter.com/joshmadakor
 [youtube]: https://www.youtube.com/c/joshmadakor
 [instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
-
+[linkedin]: https://www.linkedin.com/in/tej-dhami-224a5a1b2/
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
