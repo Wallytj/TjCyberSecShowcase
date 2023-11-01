@@ -6,7 +6,7 @@
   - [controls assessment](https://github.com/Wallytj/Conduct-a-security-audit/blame/main/security%20audit%20.docx)
   - [Stakeholder memorandum](https://github.com/Wallytj/securityaudit)
 - <b>NIST Cybersecurity Framework</b>
-  - [Incident response analysis](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
+  - [Incident response analysis](https://github.com/Wallytj/IncidentResposeAnalysis) 
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
