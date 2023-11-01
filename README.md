@@ -4,7 +4,7 @@
   
 - <b>Conduct a security audit</b>
   - [controls assessment](https://github.com/Wallytj/Conduct-a-security-audit/blame/main/security%20audit%20.docx)
-  - [Stakeholder memorandum] (
+  - [Stakeholder memorandum] (https://github.com/Wallytj/securityaudit)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
