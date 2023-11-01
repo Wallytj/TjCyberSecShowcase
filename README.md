@@ -3,7 +3,7 @@
   <h2>👨‍💻 Cybersecurity projects:</h2>
   
 - <b>Conduct a security audit</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [conducting a security audit](https://github.com/Wallytj/Conduct-a-security-audit/blame/main/security%20audit%20.docx)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
