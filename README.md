@@ -9,8 +9,11 @@
   - [Incident response analysis](https://github.com/Wallytj/IncidentResposeAnalysis) 
 - <b>file permission Linux </b>
   - https://github.com/Wallytj/FilePermissionsInLinux
-- <b>Apply filters to SQL queries</b>
+- <b>SQL</b>
   - https://github.com/Wallytj/FiltersSQLqueries
+- <b> Vulnerability Assessment Report</b>
+ - https://github.com/Wallytj/VulnerabilityAssessmentReport
+
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 <h2> Certification</h2>
