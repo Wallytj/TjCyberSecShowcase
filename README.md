@@ -16,9 +16,12 @@
 
 - <b>Python</b>
   - https://github.com/Wallytj/UpdateAfileThroughAPython-algorithm
+
+<h2>👨‍💻 IT Projects :</h2>
+
 <h2> Certification</h2>
 -[Google Cybersecurity Certificate] (https://www.credly.com/badges/a8deb8a5-943b-4fd5-88cf-407961f06605)
-<h2>👨‍💻 IT Projects :</h2>
+
 <h2> 🤳 Connect with me:</h2>
 
 
