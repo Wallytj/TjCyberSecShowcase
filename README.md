@@ -32,7 +32,7 @@
 
 
 
-[linkedin]: https://www.linkedin.com/in/tej-dhami-224a5a1b2/
+[linkedin]: https://www.linkedin.com/in/tej-kshetri
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
